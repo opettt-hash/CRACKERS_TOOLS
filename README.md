@@ -4,12 +4,12 @@ Multi Tools Gratis Yang Dibuat Khusus Untuk Kebutuhan Investigasi Data Digital, 
 
 ---
 
-**LINK DOWNLOAD:**  
+**LINK DOWNLOAD SCRIPT :**  
 *Tulis link download di sini*
 
 ---
 
-Cara Pemakaian
+**Cara Pemakaian**
 
 1. Jalankan script
 
@@ -19,7 +19,7 @@ Cara Pemakaian
 
 4. Hasil langsung tampil di layar
 
-Script ini berjalan cepat karena menggunakan kombinasi:
+**Script ini berjalan cepat karena menggunakan kombinasi**
 
 Scraping HTML
 
@@ -33,9 +33,7 @@ Geo decoding
 
 ---
 
-Keunggulan Multi Tools Ini
-
-100% GRATIS
+**Keunggulan Multi Tools Ini**
 
 Tidak butuh API Key berbayar
 
@@ -55,7 +53,7 @@ Cocok untuk investigasi data & digital forensics ringan
 
 ---
 
-Teknologi yang Digunakan
+**Teknologi yang Digunakan**
 
 Python (requests, json, bs4, re)
 
@@ -73,7 +71,7 @@ Multi-Region Phone Lookup
 
 ---
 
-Bergabung Dengan Crackers Community
+**Bergabung Dengan Crackers Community**
 
 Dapatkan update tools terbaru, script premium, dan diskusi OSINT:
 
@@ -85,7 +83,7 @@ Grup Telegram: Tulis link di sini
 
 ---
 
-Disclaimer
+**Disclaimer**
 
 Tools ini dibuat untuk:
 
@@ -95,11 +93,9 @@ Penelitian
 
 Digital Investigation
 
-OSINT (Open Source Intelligence)
+Pentesting
 
-
-DILARANG keras digunakan untuk tindakan ilegal.
-Segala bentuk penyalahgunaan adalah tanggung jawab pengguna, bukan developer.
+DILARANG keras digunakan untuk tindakan ilegal, Segala bentuk penyalahgunaan adalah tanggung jawab pengguna, bukan developer
 
 
 ---
