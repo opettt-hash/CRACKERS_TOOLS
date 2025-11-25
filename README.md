@@ -71,9 +71,9 @@ Multi-Region Phone Lookup
 
 Dapatkan Update Tools Terbaru, Script Premium, Dan Diskusi Program Script 
 
-Channel Telegram: Tulis link di sini
+Channel Telegram : https://t.me/rolandinoanjay
 
-Grup Telegram: Tulis link di sini
+Grup Telegram : https://t.me/Crackers_Teamm
 
 
 
