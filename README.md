@@ -1,6 +1,6 @@
 # Crackers Community – Multi Tools
 <img src="anjay.jpg" alt="IP Result" width="100%">
-Multi Tools Gratis Yang Dibuat Khusus Untuk Kebutuhan Investigasi Data Digital, Analisis Identitas, Scraping Informasi, Dan Tracking Berbasis Api, Tools Ini **FREE**, Aman Dipakai, Dan Bisa Langsung Dijalankan Tanpa Konfigurasi Rumit Cukup Download Melalui Link Resmi Yang Disediakan
+Multi Tools Gratis Yang Dibuat Khusus Untuk Kebutuhan Investigasi Data Digital, Analisis Identitas, Scraping Informasi, Dan Tracking Berbasis Api, Tools Ini FREE, Aman Dipakai, Dan Bisa Langsung Dijalankan Tanpa Konfigurasi Rumit Cukup Download Melalui Link Resmi Yang Disediakan
 
 ---
 
