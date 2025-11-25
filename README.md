@@ -1,4 +1,4 @@
-# Crackers Community – Multi Tools By 𝕽𝖔𝖑𝖆𝖓𝖉𝖎𝖓𝖔
+# Crackers Community – Multi Tools
 
 Multi Tools Gratis Yang Dibuat Khusus Untuk Kebutuhan Investigasi Data Digital, Analisis Identitas, Scraping Informasi, Dan Tracking Berbasis Api, Tools Ini **FREE**, Aman Dipakai, Dan Bisa Langsung Dijalankan Tanpa Konfigurasi Rumit Cukup Download Melalui Link Resmi Yang Disediakan
 
@@ -11,49 +11,47 @@ Multi Tools Gratis Yang Dibuat Khusus Untuk Kebutuhan Investigasi Data Digital, 
 
 **Cara Pemakaian**
 
-1. Jalankan script
+1. Jalankan Script
 
 
-2. Pilih menu fitur sesuai dengan menu
+2. Pilih Menu Fitur Sesuai Dengan Menu
 
 
-4. Hasil langsung tampil di layar
+4. Hasil Langsung Tampil Di Layar
 
-**Script ini berjalan cepat karena menggunakan kombinasi**
+**Script Ini Berjalan Cepat Karena Menggunakan Kombinasi**
 
 Scraping HTML
 
-API publik
+API Endepoint 
 
-Database pattern matching
+Database Pattern Matching
 
 HLR Lookup
 
-Geo decoding
+Geo Decoding
 
 ---
 
 **Keunggulan Multi Tools Ini**
 
-Tidak butuh API Key berbayar
+Tidak Butuh API Key berbayar
 
-Hasil cepat & responsif
+Hasil Cepat Dan Responsif
 
-Fitur OSINT lengkap dalam satu script
+Fitur OSINT Lengkap Dalam Satu Script
 
-Tampilan rapi dan mudah digunakan
+Tampilan Rapi Dan Mudah Digunakan
 
-Dibuat modul per menu (anti error)
+Auto Install Dependencies
 
-Auto install dependencies
-
-Cocok untuk investigasi data & digital forensics ringan
+Cocok Untuk Investigasi Data Dan Digital Forensics Ringan
 
 
 
 ---
 
-**Teknologi yang Digunakan**
+**Teknologi Yang Digunakan**
 
 Python (requests, json, bs4, re)
 
@@ -67,13 +65,11 @@ IP Geolocation Database
 
 Multi-Region Phone Lookup
 
-
-
 ---
 
 **Bergabung Dengan Crackers Community**
 
-Dapatkan update tools terbaru, script premium, dan diskusi OSINT:
+Dapatkan Update Tools Terbaru, Script Premium, Dan Diskusi Program Script 
 
 Channel Telegram: Tulis link di sini
 
@@ -85,7 +81,7 @@ Grup Telegram: Tulis link di sini
 
 **Disclaimer**
 
-Tools ini dibuat untuk:
+Tools Ini Dibuat Untuk
 
 Pembelajaran
 
@@ -95,7 +91,7 @@ Digital Investigation
 
 Pentesting
 
-DILARANG keras digunakan untuk tindakan ilegal, Segala bentuk penyalahgunaan adalah tanggung jawab pengguna, bukan developer
+DILARANG Keras Digunakan Untuk Tindakan Ilegal, Segala Bentuk Penyalahgunaan Adalah Tanggung Jawab Pengguna, Bukan Developer!
 
 
 ---
