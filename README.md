@@ -4,8 +4,8 @@ Multi Tools Gratis Yang Dibuat Khusus Untuk Kebutuhan Investigasi Data Digital, 
 
 ---
 
-**LINK DOWNLOAD SCRIPT :**  
-*Tulis link download di sini*
+**LINK DOWNLOAD SCRIPT**  
+*https://sfl.gl/DFfX50y*
 
 ---
 
